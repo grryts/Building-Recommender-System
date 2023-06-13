@@ -13,5 +13,6 @@ However, we also allow users to customize their settings. Users may select wheth
 Finally, this research presents an outline of how film data and ratings may be used to create an accurate and personalized recommendation system. Users may identify fascinating films based on the highest ratings and their preferences using this technique. This investigation gives useful insights into understanding and leveraging data to deliver a better and more pleasurable movie viewing experience.
 
 Tabel 1.1 The top 10 episodes from "Black Mirror" based on user ratings, including the episode number, title, average rating, and number of votes.
+
 ![image](https://github.com/grryts/Building-Recommender-System/assets/135938602/63e8a835-afea-46a0-b386-2ee3e9cc2998)
 
